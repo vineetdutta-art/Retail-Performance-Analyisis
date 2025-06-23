@@ -40,4 +40,5 @@ This project explores retail performance from 2014 to 2017, surfacing trends in 
 
 ---
 
-## 📁 Project Structure
+## This is how it's look like
+![alt text](https://github.com/vineetdutta-art/Retail-Performance-Analyisis/blob/main/Screenshot%202025-06-23%20074305.png)
